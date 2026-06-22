@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class OddEvenCount {
+public class week2_q1 {
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in); 
         int odd = 0, even = 0;
         for (int i=0;i<5;i++) {
             int num=sc.nextInt();

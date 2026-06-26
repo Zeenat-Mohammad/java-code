@@ -6,7 +6,7 @@ class Book {
     private boolean available;
 
     Book(int bookId, String title, String author, String genre, boolean available) {
-        this.bookId = bookId;
+        this.bookId = bookId; 
         this.title = title;
         this.author = author;
         this.genre = genre;

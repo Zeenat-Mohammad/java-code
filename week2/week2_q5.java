@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FloydAndPattern {
+public class week2_q5 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
